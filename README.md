@@ -14,9 +14,9 @@ The parcellation comprises of 3 major segments: (1) generation of population tem
 
 Step 1_1: 1_1_preprocessing_template.sh 
 
-Step 1_2: 1_2_multimodal_template.sh
+Step 1_2: 1_2_calc_fod_tensor_fixel_ex_t1t2_template.sh
 
-Step 1_3: 1_3_calc_fod_tensor_fixel_ex_t1t2_template.sh
+Step 1_3: 1_3_multimodal_template.sh
 
 Step 2_1: 2_1_multimodal_reg_apply2fod.sh
 
