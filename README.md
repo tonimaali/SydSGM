@@ -12,11 +12,7 @@ Please cite this paper if you use any of the scripts, templates, and parcellatio
 Instructions:
 The parcellation comprises of 3 major segments: (1) generation of population template, (2) computation of parametric maps, and (3) Hierarchical bi-modal clustering. T1w, T2w and diffusion MRI, all obtained from Human Connectome Project (HCP) are used for this pipeline. Below are the steps to follow for these segments. These are pseudocodoes for the steps/scripts followed to attain eth parcellation.
 
-Step 1_1: 1_1_preprocessing_template.sh 
-
-Step 1_2: 1_2_calc_fod_tensor_fixel_ex_t1t2_template.sh
-
-Step 1_3: 1_3_multimodal_template.sh
+Step 1:  please refer to the scripts released here https://github.com/Jinglei-Lv/Tissue_Unbiased_FOD_Tractogram_Template for the generation of the 50-subject population template. 
 
 Step 2_1: 2_1_compute_parametric_maps.sh
 
