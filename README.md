@@ -18,9 +18,9 @@ Step 1_2: 1_2_calc_fod_tensor_fixel_ex_t1t2_template.sh
 
 Step 1_3: 1_3_multimodal_template.sh
 
-Step 2_1: 2_1_multimodal_reg_apply2fod.sh
+Step 2_1: 2_1_compute_parametric_maps.sh
 
-Step 2_2: 2_2_compute_parametric_maps.sh
+Step 2_2: 2_2_multimodal_reg_apply2fod.sh
 
 Step 2_3: 2_3_warp_images_HDf50*.sh
 
