@@ -22,7 +22,7 @@ The parcellation comprises of 3 major segments: (1) generation of population tem
 
 All of the structural (T1 and T2) and diffusion MRI data can be downloaded from publicly available Human Connectome Project [1,2]. Below are the ID numbers of the subjects that were analysed in this project: 100206 103111 107018 100307 103212 107321 100408 103414 107422 100610 103515 107725 101006 103818 108020 101107 104012 108121 101309 104416 108222 101410 104820 108323 101915 105014 108525 102008 105115 108828 102109 105216 109123 102311 105620 109830 102513 105923 110007 102614 106016 110411 102715 106319 110613 102816 106521 111009 103010 106824.
 
-A sample dataset (Sample_data.zip) consisting data from 5 subjects is provided here for ease of access. 
+Due to space constraint, a sample dataset (Sample_data.zip) consisting data from 5 subjects is provided (https://osf.io/pmuez/) along with the parcellation for ease of access. 
 
 Below are the pseudocodoes for the steps/scripts that were implemented to attain the SydSGM parcellation.
 
