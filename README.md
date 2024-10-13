@@ -1,5 +1,6 @@
 # SydSGM_Parcellation
-![SydSGM_Parcellation](https://github.com/tonimaali/SydSGM_Parcellation/assets/73574216/eff01369-40b1-4419-ab0b-97d41da59172)
+![SydSGM_parcellation_github](https://github.com/user-attachments/assets/d47c6338-fae6-4f39-a038-c4b6e6e273c2)
+
 
 This repository releases codes for the following paper.
 
